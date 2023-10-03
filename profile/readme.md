@@ -13,10 +13,12 @@ C[Tutorial hell];
 D[Procrastination];
 E[Hard work];
 F[Repeat];
+Z[e^i*pi=-1];
 A-->C;
 C-->D;
 D-->E;
 E-->F;
 F-->A;
 F-->B;
+B-->Z;
 ```
